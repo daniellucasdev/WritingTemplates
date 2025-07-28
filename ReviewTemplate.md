@@ -8,9 +8,10 @@
 
 - [x] Simplifica esse CSS de coluna cara kkkkkk ce consegue fazer melhor mano
 
-> - Quantidade de erros:
-> - [ ] 1 até 15 - Desenvolvedor padrão;
+> ## Quantidade de erros:
+>
+> - [x] 1 até 15 - Desenvolvedor padrão;
 > - [ ] 16 até 35 - Codou com preguiça;
-> - [ ] 36 até 50 - Fez na má vontade;
-> - [ ] 51 até 100 - Visite um neurologista;
+> - [ ] 36 até 65 - Fez na má vontade;
+> - [ ] 66 até 100 - Visite um neurologista;
 > - [ ] > 101 - Quer sair da Braip;
