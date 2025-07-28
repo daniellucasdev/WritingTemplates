@@ -1,3 +1,3 @@
-## Esse é um projeto de templates!
+## Esse é um projeto de Escritas!
 
-Aqui só estarão alguns templates de pull request que podem ser usados em outros projetos, seguindo meu padrão!
+Aqui só estarão alguns templates em formato de MarkDown que podem ser usados em outros projetos, seguindo meu padrão!
